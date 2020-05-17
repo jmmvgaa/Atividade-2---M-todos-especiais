@@ -1,0 +1,11 @@
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.exe
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.deps.json
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.runtimeconfig.json
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.runtimeconfig.dev.json
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.dll
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\bin\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.pdb
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\obj\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.csprojAssemblyReference.cache
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\obj\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\obj\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.AssemblyInfo.cs
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\obj\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.dll
+C:\Users\João\Desktop\POO\Atividade 2 - Métodos Especiais\Atividade 2 - Métodos Especiais\obj\Debug\netcoreapp3.1\Atividade 2 - Métodos Especiais.pdb
